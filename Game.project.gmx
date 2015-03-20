@@ -8,9 +8,13 @@
   <sprites name="sprites">
     <sprites name="Player">
       <sprite>sprites\spr_player_up</sprite>
+      <sprite>sprites\spr_player_up_still</sprite>
       <sprite>sprites\spr_player_down</sprite>
+      <sprite>sprites\spr_player_down_still</sprite>
       <sprite>sprites\spr_player_left</sprite>
+      <sprite>sprites\spr_player_left_still</sprite>
       <sprite>sprites\spr_player_right</sprite>
+      <sprite>sprites\spr_player_right_still</sprite>
     </sprites>
     <sprites name="Walls">
       <sprite>sprites\spr_wall_horizontal</sprite>
