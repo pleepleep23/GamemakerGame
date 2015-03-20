@@ -33,6 +33,18 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_player</object>
+    <objects name="Walls">
+      <object>objects\obj_wall_horizontal</object>
+      <object>objects\obj_corner_UR</object>
+      <object>objects\obj_corner_UL</object>
+      <object>objects\obj_corner_DR</object>
+      <object>objects\obj_corner_DL</object>
+      <object>objects\obj_wall_end_left</object>
+      <object>objects\obj_wall_end_right</object>
+      <object>objects\obj_wall_verticle</object>
+      <object>objects\obj_wall_end_top</object>
+      <object>objects\obj_wall_end_bottom</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
