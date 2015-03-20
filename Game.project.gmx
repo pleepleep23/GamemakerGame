@@ -9,6 +9,10 @@
     <sprite>sprites\spr_player</sprite>
     <sprites name="Walls">
       <sprite>sprites\spr_wall_horizontal</sprite>
+      <sprite>sprites\spr_corner_UR</sprite>
+      <sprite>sprites\spr_corner_UL</sprite>
+      <sprite>sprites\spr_corner_DR</sprite>
+      <sprite>sprites\spr_corner_DL</sprite>
       <sprite>sprites\spr_wall_end_left</sprite>
       <sprite>sprites\spr_wall_end_right</sprite>
       <sprite>sprites\spr_wall_verticle</sprite>
