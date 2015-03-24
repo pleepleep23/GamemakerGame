@@ -419,11 +419,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>16</string>
+            <string>8</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>16</string>
+            <string>8</string>
           </argument>
         </arguments>
       </action>

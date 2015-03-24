@@ -28,7 +28,17 @@
       <sprite>sprites\spr_wall_end_top</sprite>
       <sprite>sprites\spr_wall_end_bottom</sprite>
     </sprites>
-    <sprite>sprites\spr_floor_stone</sprite>
+    <sprites name="Stone Floor">
+      <sprite>sprites\spr_floor_stone</sprite>
+      <sprite>sprites\spr_floor_water_left</sprite>
+      <sprite>sprites\spr_floor_water_right</sprite>
+      <sprite>sprites\spr_floor_water_down</sprite>
+      <sprite>sprites\spr_floor_water_up</sprite>
+      <sprite>sprites\spr_floor_water_DR</sprite>
+      <sprite>sprites\spr_floor_water_DL</sprite>
+      <sprite>sprites\spr_floor_water_UR</sprite>
+      <sprite>sprites\spr_floor_water_UL</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -46,7 +56,9 @@
       <object>objects\obj_wall_end_top</object>
       <object>objects\obj_wall_end_bottom</object>
     </objects>
-    <object>objects\obj_floor_tile</object>
+    <objects name="Floors">
+      <object>objects\obj_floor_tile</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
