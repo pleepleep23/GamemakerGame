@@ -28,6 +28,7 @@
       <sprite>sprites\spr_wall_end_top</sprite>
       <sprite>sprites\spr_wall_end_bottom</sprite>
     </sprites>
+    <sprite>sprites\spr_floor_stone</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -45,6 +46,7 @@
       <object>objects\obj_wall_end_top</object>
       <object>objects\obj_wall_end_bottom</object>
     </objects>
+    <object>objects\obj_floor_tile</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
