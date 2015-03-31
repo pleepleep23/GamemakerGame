@@ -30,6 +30,7 @@
     </sprites>
     <sprites name="Stone Floor">
       <sprite>sprites\spr_floor_stone</sprite>
+      <sprite>sprites\spr_floor_water</sprite>
       <sprite>sprites\spr_floor_water_left</sprite>
       <sprite>sprites\spr_floor_water_right</sprite>
       <sprite>sprites\spr_floor_water_down</sprite>
@@ -58,6 +59,15 @@
     </objects>
     <objects name="Floors">
       <object>objects\obj_floor_tile</object>
+      <object>objects\obj_floor_water</object>
+      <object>objects\obj_floor_water_left</object>
+      <object>objects\obj_floor_water_right</object>
+      <object>objects\obj_floor_water_down</object>
+      <object>objects\obj_floor_water_up</object>
+      <object>objects\obj_floor_water_DR</object>
+      <object>objects\obj_floor_water_DL</object>
+      <object>objects\obj_floor_water_UR</object>
+      <object>objects\obj_floor_water_UL</object>
     </objects>
   </objects>
   <rooms name="rooms">
